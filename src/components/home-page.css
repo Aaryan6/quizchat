@@ -1,0 +1,47 @@
+.gradient-text {
+  background: -webkit-linear-gradient(70.37deg, #4186b4 21.81%, #ffd452 76.7%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.level-text {
+  background: -webkit-linear-gradient(95.66deg, #edc008 0%, #e6ad0f 98.41%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.red-level-text {
+  background: -webkit-linear-gradient(
+    116.27deg,
+    #f8874f 16.52%,
+    #f75931 83.34%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.level-card {
+  background: -webkit-linear-gradient(77.69deg, #f0f6fa 17.91%, #fffbeb 82.09%);
+}
+.gradient-text-1{
+  background: -webkit-linear-gradient(72deg, #4186B41F 24.69%, #FFC20A1F 75.31%);
+}
+.star {
+  background: -webkit-linear-gradient(
+    133.83deg,
+    #fcbc73 16.91%,
+    #f9c576 90.25%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+::-webkit-scrollbar {
+  width: 5px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #cbd5e0; /* color of the scrollbar thumb */
+  border-radius: 4px; /* rounded corners of the thumb */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #edf2f7; /* color of the scrollbar track */
+}

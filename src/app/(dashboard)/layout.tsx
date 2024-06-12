@@ -1,21 +1,25 @@
 import React from "react";
-import Navbar from "./_components/navbar";
+import sandboxLogo from "@/assets/Images/sandboxLogo.svg";
+import Image from "next/image";
+import Link from "next/link";
+import { Inter } from "next/font/google";
 
-import { getSession } from "../supabase-server";
-import { redirect } from "next/navigation";
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+});
 
 const DashboardLayout = async ({ children }: { children: React.ReactNode }) => {
-  const session = await getSession();
-  const user = session?.user;
-  // if (!user) {
-  //   return redirect("/i");
-  // }
-
   return (
-    <div className="h-full">
-      <Navbar />
-
-      <main className="mt-[4rem]">{children}</main>
+    <div className={`${inter.variable} font-sans h-full w-full bg-[#FFF]`}>
+      <div className="w-full border-b-2 flex justify-center bg-[#FFF] py-4 sticky top-0">
+        <Link href="/">
+          <Image src={sandboxLogo} alt="sandbox-logo" />
+        </Link>
+      </div>
+      <main className="mt-[1rem] h-[calc(100vh-90px)] bg-[#FFF] overflow-y-auto">
+        {children}
+      </main>
     </div>
   );
 };

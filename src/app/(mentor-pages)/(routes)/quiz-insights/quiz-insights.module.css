@@ -1,0 +1,21 @@
+.container {
+  background: "#fdf8f7";
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.section-container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 60px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.scores-container {
+  display: flex;
+  justify-content: space-between;
+}
+.divider {
+  color: "#EBE1D5";
+  margin: 20px 0px;
+}

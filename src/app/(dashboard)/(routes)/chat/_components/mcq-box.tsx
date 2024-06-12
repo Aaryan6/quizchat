@@ -3,6 +3,8 @@
 import { Bot } from "lucide-react";
 import OptionsBox from "./options-box";
 import QuestionBox from "./question-box";
+import Image from "next/image";
+import botIcon from "@/assets/Images/bot_icon.png";
 import ExplainationPopover from "./explaination-popover";
 import FeedBackForm from "./feedback-form";
 export default function MCQBox({
@@ -10,23 +12,35 @@ export default function MCQBox({
   handleNext,
   submissions,
   questionIndex,
+  user,
+  hasEnded,
+  explanation,
 }: {
   currentQuestion: any;
   handleNext: any;
   submissions: any;
   questionIndex: number;
+  user: {
+    name: string;
+    grade: number;
+    id: string;
+  };
+  hasEnded: boolean;
+  explanation: string;
 }) {
-  const correctAnswer = JSON.parse(currentQuestion?.options).find(
+  const correctAnswer = currentQuestion?.options.find(
     (option: any) => option.correct == "true"
   )?.text;
 
   const completedQuestion = submissions.find(
-    (option: any) => option.questionId === currentQuestion?.uuid
+    (option: any) =>
+      option.questionId === currentQuestion?.uuid &&
+      submissions.length !== questionIndex - 1
   );
   return (
-    <div className="max-w-lg my-2 flex items-start w-full gap-x-2">
+    <div className="max-w-3xl my-2 flex items-start w-full gap-x-2">
       <div className="bg-orange-300 w-10 h-10 rounded-full grid place-items-center">
-        <Bot size={20} className="stroke-white" />
+        <Image src={botIcon} alt="bot" className="stroke-white" />
       </div>
       <div className="flex-1 relative">
         <QuestionBox
@@ -37,14 +51,11 @@ export default function MCQBox({
           options={currentQuestion?.options}
           handleNext={handleNext}
           completedQuestion={completedQuestion}
-        />
-        {!completedQuestion && (
-          <FeedBackForm questionId={currentQuestion?.uuid} />
-        )}
-        <ExplainationPopover
           question={currentQuestion?.question}
           answer={correctAnswer}
+          hasEnded={hasEnded}
         />
+        <FeedBackForm questionId={currentQuestion?.uuid} user={user} />
       </div>
     </div>
   );

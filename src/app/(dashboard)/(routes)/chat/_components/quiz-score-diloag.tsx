@@ -1,25 +1,22 @@
 "use client";
-import AccuracyCard from "@/components/accuracy-card";
-import ResultsCard from "@/components/results-card";
 import { useEffect, useState } from "react";
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-} from "@/components/ui/dialog";
+import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { getQuizStats } from "@/app/supabase-client-provider";
-import { useRouter } from "next/navigation";
+import { Button } from "@/components/ui/button";
+import Image from "next/image";
+import levelCupStraight from "@/assets/Images/levelCupStraight.png";
+import "@/components/home-page.css";
 
 export default function QuizScore({
   quizId,
   open,
   setOpen,
+  numberOfCompletedQuizData,
 }: {
   quizId: string;
   open: boolean;
   setOpen: (open: boolean) => void;
+  numberOfCompletedQuizData: any;
 }) {
   const [accuracy, setAccuracy] = useState(0);
   const [totalCorrect, setTotalCorrect] = useState(0);
@@ -44,7 +41,7 @@ export default function QuizScore({
     );
     setTotalCorrect(totalCorrect);
 
-    const questionLength = quiz_stats.questions.length;
+    const questionLength = quiz_stats.questions?.length;
     setTotalQuestions(questionLength);
     accuracy = (totalCorrect / questionLength) * 100;
     setAccuracy(accuracy);
@@ -52,18 +49,36 @@ export default function QuizScore({
   return (
     <div className="max-w-lg mx-auto w-full">
       <Dialog open={open} onOpenChange={() => setOpen(false)}>
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>Score</DialogTitle>
-          </DialogHeader>
-          <div className="grid gap-4 mt-4 md:grid-cols-2">
-            <ResultsCard accuracy={accuracy} />
-            <AccuracyCard
-              accuracy={accuracy}
-              totalCorrect={totalCorrect}
-              totalQuestions={totalQuestions}
-            />
+        <DialogContent className="flex-col justify-center">
+          <div className="level-card  flex-column items-center content-center w-full p-4 md:max-w-56">
+            <div className="flex justify-center">
+              <Image
+                src={levelCupStraight}
+                alt="level-cup"
+                className="-rotate-12 h-5 w-5 mr-2"
+              />
+              <span className="text-[#2F4F4F] text-lg font-semibold">
+                Level {numberOfCompletedQuizData.level}
+              </span>
+              <Image
+                src={levelCupStraight}
+                alt="level-cup"
+                className="rotate-12 h-5 w-5 ml-2"
+              />
+            </div>
+            <div className="mt-[1rem] flex justify-center text-[#569090] text-[48px] font-[700]">
+              {totalCorrect}
+            </div>
+            <div className="flex justify-center text-[#569090] text-[14px] font-[500]">
+              out of {totalQuestions}
+            </div>
           </div>
+          <Button
+            className="w-full mt-2 bg-[#E98451] text-[#FFF] hover:bg-[#E98451]"
+            onClick={() => setOpen(false)}
+          >
+            Continue Quiz
+          </Button>
         </DialogContent>
       </Dialog>
     </div>

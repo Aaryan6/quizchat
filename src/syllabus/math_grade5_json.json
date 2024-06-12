@@ -1,0 +1,883 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 5",
+    "grade": 5,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Number Systems",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand Place Value and Expanded Form of Large Numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Place Value of Large Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expanded Forms of Large Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand \"Millions\"",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to \"Crores\" & \"Millions\""
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Place Value and Expanded Forms of numbers up to 9 digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Compare, Order, Skip Count and Round off Large Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparing and Ordering Large Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Skip Counting and Rounding Off Large Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Round off Numbers in the Indian Number System",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Rounding Off Numbers up to 9 digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing, Ordering, Skip Counting, and Rounding Off Numbers up to 9 digits"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Arithmetic Operations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Arithmetic Operations",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add and Subtract 5-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Add And Subtract Multi-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add Multi-Digit Numbers using Standard Algorithm"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Add Multi-Digit Numbers with Strategies"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Subtract Multi-Digit Numbers using Standard Algorithm"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Find Missing Addends Operators and Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Estimate Sum And Difference Of Multi-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Estimate Sum of Multi-Digit Numbers by Rounding"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Estimate Difference of Multi-Digit Numbers by Rounding"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Solve Word Problems On Addition And Subtraction Of Multi-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Solve 1-Step Word Problems on Addition-Subtraction"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solve 2-Step Word Problems on Addition-Subtraction"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Solve Word Problems on Addition-Subtraction"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Multiply and Divide Large Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication and Division of Large Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mixed Operations on Large Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Mentally Multiply and Divide Large Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mental Multiplication of Large Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mental Division of Large Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Factors, Multiples, and Primes",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand multiples and factors and their properties",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Factors and Multiples"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Factors and Multiples -1"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Properties of Factors and Multiples -2"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand prime numbers and prime factorization",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Prime Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Prime Factorization"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand LCM and HCF and use prime factorization and common division to find them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to HCF and LCM"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Using Prime Factorization to find HCF and LCM"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Using Common Division to find HCF and LCM"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand the relationship between a pair of numbers and their HCF and LCM",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Relationship between a pair of numbers and their HCF and LCM"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "RECAP: Divisibility",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap to Divisibility"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Perform divisibility tests for 2, 3, 4, 5, 8, 9 and 10",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Divisibility Tests for 5 and 10"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Divisibility Tests for 2, 4, and 8"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Divisibility Tests for 3 and 9"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Apply divisibility tests",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Divisibility"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice on Divisibility"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Fractions and their Arithmetic Operations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand equivalent fractions and lowest form of a fraction",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Visual Introduction to Equivalent Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Equivalent Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "An Introduction to the Lowest Form of Fraction"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Compare and order fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparing Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Ordering Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Add and subtract like and unlike fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Visual Addition and Subtraction of Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of Like Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction of Unlike Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve numerical and word problems on addition and subtraction of fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of three or more Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Word Problems on Addition and Subtraction of Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Multiply proper and improper fractions by whole numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Proper Fractions by Whole Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Improper Fractions by Whole Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Multiply fractions by fractions and solve problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Fractions by Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Multiplication of Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Divide proper/improper and mixed fractions by whole numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Proper/Improper Fractions by Whole Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Mixed Fractions by Whole Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 9,
+                    "subtopic": "Divide whole numbers and fractions by fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Whole Numbers by Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Fractions by Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Problems on Division of Fractions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Decimals and their Arithmetic Operations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand expanded forms of and place values in decimals, and their relationship with fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Expanded Forms of and Place Values in Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Relationship between Fractions and Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand the significance of zeros after a decimal point and decimals on a number line",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Zeros After a Decimal Point and Decimals on a Number Line"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Recognise types of decimals and compare and order them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Like and Unlike Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing and Ordering Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Add and subtract like and unlike decimals (with/ without regrouping)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Like Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of Unlike Decimals without Regrouping"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction of Unlike Decimals with Regrouping"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve problems on addition and subtraction of decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Word Problems on Addition and Subtraction of Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "RECAP:Decimal numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Decimal Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Multiply decimal numbers by powers of 10 and decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Decimal Numbers by Powers of 10"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Unit Conversion and Multiplication of Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Multiply decimal numbers by whole numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Decimal Numbers by Whole Numbers (Part I)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Decimal Numbers by Whole Numbers (Part II)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 9,
+                    "subtopic": "Multiply decimal numbers by decimal numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Decimal Numbers by Decimal Numbers (Part I)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Decimal Numbers by Decimal Numbers (Part II)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 10,
+                    "subtopic": "Divide decimal numbers by powers of ten and by whole numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Decimal Numbers by Powers of Ten"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Decimal Numbers by Whole Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 11,
+                    "subtopic": "Solve word problems and use long division method for decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Word Problems and Long Division Method for Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 12,
+                    "subtopic": "Divide decimal numbers by decimal numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Decimal Numbers by Decimal Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Percentages and Unitary Method",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand percentages and their relationship with fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Percentages"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Relationship between Fractions and Percentages"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Compare percentages and solve problems on percentages",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparing Percentages"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Percentages"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Apply multiplication and division to find unit value",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Application of Multiplication and Division to find Unit Value"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand and apply unitary method to solve problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to the Unitary Method"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of the Unitary Method"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Practice Problems on Unitary Method"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Geometry",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Lines, line segments, rays and angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Lines, Line Segments, and Rays"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "A Recap to Angles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Identify complementary and supplementary angles, and distinguish between adjacent angles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Complementary and Supplementary Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Adjacent Angles and Linear Pairs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Work with lines and vertically opposite angles, and solve problems on lines and angles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Lines and Vertically Opposite Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Lines and Angles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Classify triangles based on sides and angles, and understand properties of triangles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Classification of Triangles by Sides"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Classification of Triangles by Angles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Properties of Triangles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand quadrilaterals and the angle sum property",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Angle Sum Property of a Quadrilateral"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand circles and construct them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Circles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Subjective: Construction of Circles"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Mensuration",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Convert various units and solve word problems on them",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Unit Conversion"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Word Problems on Unit Conversion"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Metric System"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Work on perimeter of squares and rectangles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Perimeter"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Perimeter of Squares and Rectangles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Work on area of squares and rectangles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Area"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Area of Squares and Rectangles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand the concept of volume",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Volume"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Data Handling",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Work on scaled pictographs and tally marks",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Scaled Pictographs and Tally Marks"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Interpret and create bar graphs",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation and Creation of Bar Graphs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Interpret and label pie charts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation and Labelling of Pie Charts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

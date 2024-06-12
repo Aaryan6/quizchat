@@ -1,0 +1,5 @@
+.headerClrTxt {
+    background: -webkit-linear-gradient(142.68deg, #E5886B 22.94%, #DFBF6A 74.41%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

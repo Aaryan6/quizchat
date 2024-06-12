@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Quizme",
+  title: "Sandbox",
   description: "AI powered quiz app",
 };
 

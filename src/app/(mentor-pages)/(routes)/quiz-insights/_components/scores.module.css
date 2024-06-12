@@ -1,0 +1,26 @@
+.custom-bar-graph {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  height: 152px;
+  max-width: 474px;
+  min-width: 474px;
+}
+
+.custom-bar-graph > div:not(:last-child) {
+  margin-right: 24px;
+}
+
+.bar {
+  width: 24px;
+  background-color: #ffa85d;
+  position: relative;
+  border-radius: 4px;
+}
+
+.bar-value {
+  position: absolute;
+  top: 1px;
+  left: 50%;
+  transform: translateX(-50%);
+}

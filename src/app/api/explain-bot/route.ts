@@ -1,9 +1,8 @@
-import { NextResponse } from "next/server";
 import OpenAI from "openai";
 import { StreamingTextResponse, OpenAIStream } from "ai";
 
-const perplexity = new OpenAI({
-  apiKey: process.env.TOGETHER_AI_API_KEY || "",
+const together = new OpenAI({
+  apiKey: process.env.TOGETHER_AI_API_KEY!,
   baseURL: "https://api.together.xyz",
 });
 
@@ -11,7 +10,7 @@ export async function POST(req: Request) {
   const body = await req.json();
   const { prompt: question, correctOption } = body;
 
-  const response = await perplexity.chat.completions.create({
+  const response = await together.chat.completions.create({
     model: "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
     stream: true,
     temperature: 0,
