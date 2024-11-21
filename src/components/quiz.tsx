@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import useDialog from "@/store/dialog";
 import { useEffect } from "react";
 import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
-// import { userAssessmentStatus } from "@/app/supabase-server";
+// import { userAssessmentStatus } from "@/actions/main.actions";
 
 const QuizMeCard = () => {
   const router = useRouter();

@@ -1,0 +1,747 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 3",
+    "grade": 3,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Number Systems",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap Number Systems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Numbers up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Read and Write Numbers up to 10,000",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Representation of Numbers up to 10,000"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Numbers before, after and between"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Read and Write Numbers up to 10,000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identify Place Values in 4-Digit Numbers and Express Numbers in Expanded form",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Places, Place Values, and Face Values in 4-digit numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expanded Form of 4-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Place Values and Expanded Form of 4-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Compare, Order and Form 4-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Compare 4-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Order 4-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Understanding Formation of 4-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Forming 4-Digit Numbers with Repetition"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Round off up to 4-digit Numbers to the Nearest 10 and 100",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Round off up to 4-Digit Numbers to the Nearest 10"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Round off up to 3-Digit Numbers to the Nearest 100"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Round off up to 4-Digit Numbers to the Nearest 100"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand Odd, Even, and Ordinal Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understand Odd and Even Numbers up to Two Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Understand Odd and Even Numbers up to Four Digits"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Understand Ordinal Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Addition and Subtraction",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap ",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add and Subtract 3-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Add and Subtract 4-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add 4-digit numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Subtraction of 4-digit numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Relationship between addition and subtraction"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand Properties and Solve Problems Using Mental Strategies",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understand Properties of Addition and Subtraction"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mental Strategies to Add and Subtract"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Estimate Sum and Difference up to 4-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Estimate Sum of 4-digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Estimate Difference of 4-digit numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve Word Problems on Addition and Subtraction",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Solve One step problem on addition of 4-digit numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solve One step problem on subtraction of 4-digit numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Solve Multi step problem on addition and subtraction"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Multiplication and Division",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Multiply using repeated addition",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication as Repeated Addition"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve 4-digit multiplication problems and know the multiplication facts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication and Multiplication Facts"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Standard Multiplication of Numbers up to 3-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve word problems on standard multiplication of 4-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Word Problems on Standard Multiplication of Numbers up to 3-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand division and division facts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding Division using Visual Models"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division and Division Facts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve standard division problems of 4-digit numbers and understand remainder",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Standard Division of Numbers up to 3-Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to Remainder"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Word Problems on Standard Division of Numbers up to 4-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand properties of multiplication and mentally multiply 4-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Multiplication"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mental Multiplication of Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Devise strategies and ideas for multiplication of 4-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Ideas for Multiplication of Numbers up to 4-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Mentally divide 4-digit numbers and observe patterns in multiplication",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mental Division of Numbers up to 4-Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Patterns in Multiplication of Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "An Introduction to Fractions",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Visualize fractions of a unit and write and interpret their numeric and word forms",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Visualization of Fractions of a Unit"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Numeric and Word forms of a Fraction"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Visualize fractions, and compare and order them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Visualization of Fractions on a Line, Shape, and Strip"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing and Ordering Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand numerator and denominator",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding Numerator and Denominator"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Write one shape as a fraction of the other",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "One Shape as a Fraction of the Other"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Write fractions of a collection (Visual and Abstract) and solve problems\r",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Fractions of a collection (Visual)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Fractions of a collection (Abstract)"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Problems on Fractions of a collection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Time",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Read and write time off a clock",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Reading and Writing Time off a Clock"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand the terms Half Past, Quarter Past, and Quarter To",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Half Past, Quarter Past, and Quarter To"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Convert hours, minutes, and seconds",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion between Hours, Minutes, and Seconds"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Calculate elapsed time and understand the calendar",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Calculation of Elapsed Time"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Time"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Lines and Polygons",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand points, lines, line segments and rays",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to a Point"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to Lines, Line Segments, and Rays"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand congruent line segments",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Congruent Line Segments"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand and identify polygons and circles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Polygons"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Identification of Polygons"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "An Introduction to Circles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand 3D shapes and their properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "3D Shapes and their Properties"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Measurement",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: A recap to length",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Measurement and Comparison of Lengths (in cm)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Convert, compare and use units (m and cm)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Unit Conversion (Metre and Centimetre)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison and Usage of Units (Meter and Centimeter)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand \"km\", and convert, compare and use units",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Kilometre"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Consolidation of Unit Conversion and Comparison"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Usage of Units (Kilometre, Metre, and Centimetre)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Add and subtract units of length, and solve word problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Units"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Consolidated Problems on Length"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "RECAP: Weights and weighing balance",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Weights and Weighing Balance"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Conversion and Comparison of Units",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Unit Conversion (kg and g)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison of Units"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Understand \"milligram\" and add and subtract units",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Milligram with Addition and Subtraction of Units"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Weight"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Convert and compare units of capacity (L and mL)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Capacity and Unit Conversion (L and mL)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison and Usage of Units of Capacity"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 9,
+                    "subtopic": "Add and subtract units of capacity, and solve problems on weight and capacity",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Units and Practice Problems on Capacity"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Consolidation of Weight and Capacity"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Scaled Pictographs",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Interpret Pictographs and Scaled Pictographs",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation of Pictographs"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation of Scaled Pictographs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Create Pictographs and Scaled Pictographs",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Creation of Regular Pictographs and Scaled Pictographs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Money",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap : Money",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Counting Money and Writing the Amount"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "See various amounts as a collection of coins and notes",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Amount as a Collection of Coins and Notes"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Convert and compare between rupee and paise",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion and Comparison Between Rupee and Paise"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Perform all 4 operations with amounts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Amounts"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division of Amounts"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Mixed Operation on Amounts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

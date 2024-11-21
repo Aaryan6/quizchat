@@ -10,7 +10,7 @@ export default function InitialAssessmentCard() {
     <Card
       className="hover:cursor-pointer hover:opacity-75"
       onClick={() => {
-        router.push("/chat");
+        router.push("/math-quiz");
       }}
     >
       <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">

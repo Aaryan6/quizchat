@@ -1,0 +1,427 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 1",
+    "grade": 1,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Number Systems",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Numbers up to 99",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Numbers up to 20"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to 2-digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Understanding 2-Digit Numbers on an Abacus"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Numbers and Number Names using an Abacus"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Expanded Form of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Expanded Form of 2-Digit Numbers (Abstract Form)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Comparing and Ordering Numbers up to 99",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Counting 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing two 2-Digit Numbers using Visual Models"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Comparing two 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Comparing three 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Comparing a Set of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Ordering 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 7,
+                            "learning_objective": "2-Digit Numbers on a Number Line"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Consolidation of Numbers up to 120",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "3-Digit Numbers up to 120"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expanded Form of Numbers up to 120"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Comparing and Ordering Numbers up to 120"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Skip Counting Numbers up to 120"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Counting Numbers up to 120"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "An Introduction to Ordinal Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Addition and Subtraction",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Visualization of Addition and Subtraction",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of 2-Digit Numbers using Ordinal Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of 2-Digit Numbers using a Number Line"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction Facts of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Addition and Subtraction of 2-Digit Numbers using a Number Line"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Word Problems on Addition and Subtraction of 2-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Addition and Subtraction of Two-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition of 2-Digit Numbers involving Carry Over"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Subtraction of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Subtraction of 2-Digit Numbers involving Borrow"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Standard Addition and Subtraction of 2-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Mental Addition and Subtraction of 2-Digit Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "An Introduction to Multiplication",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Introduction to Multiplication",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication as Repeated Addition"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication Tables"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Multiplication Grid"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Word Problems on Multiplication"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Time",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Time",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Parts of a Day"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to a Clock"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Days of a Week"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Months in a Year"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Days and Months"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Shapes and Patterns",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Lines and Shapes",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Matching and Sorting Lines"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Classification of Lines"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Horizontal, Vertical, and Slanting Lines"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Shapes"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Straight and Curved Lines in a Shape"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Plane and Solid Shapes",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Plane Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Matching Solid Shapes"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Sorting Solid Shapes"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Shapes and Real-Life Objects"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Objects that Roll or Slide"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Patterns",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Alternating Pattern using Objects"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "ABB and AAB Patterns using Objects"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Alternating Patterns using Shapes"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Patterns with Letters and Numbers"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Increasing and Decreasing Patterns"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "More Patterns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Measurement",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Measurement",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Long and Short"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Tall and Short"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Big and Small"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Thick and Thin"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Heavy and Light"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "High, Low, Above, Below, Near, and Far"
+                        },
+                        {
+                            "lo_sequence": 7,
+                            "learning_objective": "More and Less"
+                        },
+                        {
+                            "lo_sequence": 8,
+                            "learning_objective": "Non-Standard Units of Measurement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Data Handling",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Data Handling",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Classification of Information"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation of Information"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Representation of Information"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Money",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Country Specific Currency",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Currency and Price Tags"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Counting Money"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Decomposition and Formation"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Arithmetic Operations on Money"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
