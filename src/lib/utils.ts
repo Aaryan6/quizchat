@@ -1,9 +1,15 @@
 import { type ClassValue, clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
+import { customAlphabet } from "nanoid";
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
+
+export const nanoid = customAlphabet(
+  "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+  7
+); // 7-character random string
 
 export const getURL = () => {
   let url =
@@ -33,3 +39,17 @@ export const formatTimeDelta = (delta: number) => {
     return `${seconds}s`;
   }
 };
+
+export async function getAssignStatus(userid: string) {
+  const res = await fetch(
+    `${process.env.NEXT_PUBLIC_SANDBOX_API}/noah/topic/assigned/status?studentId=${userid}`,
+    {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    }
+  );
+  const data = await res.json();
+  return data.exists;
+}

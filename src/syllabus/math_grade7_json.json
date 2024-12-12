@@ -1,0 +1,1190 @@
+{
+    "course_type": "maths",
+    "subject" : "Maths",
+    "course": "Maths Grade 7",
+    "grade": 7,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Integers",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Integers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison of Integers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Apply Addition and Subtraction of Integers in Contextual Problems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Applied Problems on Addition and Subtraction of Integers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition-Subtraction-Contextual Problems"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Apply the Properties of Addition and Subtraction of Integers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Integer Addition and Subtraction"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Addition and Subtraction (Integers)"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Multiply and Divide Integers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Multiplication and Division of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division of Integers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Apply the Properties of Multiplication and Division of Integers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Integer Multiplication and Division"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Multiplication and Division of Integers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Apply Multiplication and Division of Integers in Contextual Problems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Applied Problems on Multiplication and Division of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division of Integers Contexual Problems"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Fractions and Decimals",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison of Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction of Fractions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Multiply Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of a Fraction and a Whole Number"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Fractions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Divide Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Fractions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Apply Operations on Fractions in Contextual Problems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Applied Problems on Fraction Multiplication and Division"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division of Fractions(Contexual)"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Recap of Decimals",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison of Decimals"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction of Decimals"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Multiply Decimals",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of a Decimal and a Whole Number"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Decimals"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Divide Decimals",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Long Division Method for Decimals"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Apply Operations on Decimals in Contextual Problems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Applied Problems on Decimal Multiplication and Division"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication Division Decimals(Contextual)"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Rational Numbers",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Definition, Represention, and Standard Form",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Representation of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Equivalence and Standard Form of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Definition, Representation and Standard Form of Rational Numbers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Comparing Rational Numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparison of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Finding Rational Numbers Between Two Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Comparing Rational Numbers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Addition and Subtraction of Rational Numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Rational Number Addition and Subtraction"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Add and Subtract Rational Numbers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Multiplication and Division of Rational Numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Multiply and Divide Rational Numbers"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Exponents",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Definition and Exponential Form",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Exponents"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expression of Numbers using Exponential Notation"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Comparison of Exponents"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Exponents Introduction"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Product Law and Power Law",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Product Law and Power Law of Exponents"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Exponents - Product Law and Power Law"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Quotient Law",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Quotient Law of Exponents"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Powers of Products and Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Exponents of Products and Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Powers of Products And Fractions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Standard Form",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Standard Form of Numbers Using Exponents"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Decimal Expansion of Numbers Using Exponents"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Expand Natural Numbers and Express Large Numbers in the Standard Form"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Percentages",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Definition of Percentages",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Percentages"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Fractions and Percentages"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Fractions, Percentages, and Decimals"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Simple Problems on Percentage"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Definition of Percentages"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Applied Problems on Percentages",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Applied Problems on Percentages"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Conversion to Fractions, Decimals, and Ratios"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Percentage Change",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Percentage Change"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Applied Problems on Percentage Change"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Percentage Change"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Commercial Math",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Profit and Loss",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Profit and Loss"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Profit and Loss Percentage"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Profit and Loss"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Simple Interest",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Simple Interest"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "General Formula for Simple Interest"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Simple Interest"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Lines and Angles",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify Complementary and Supplementary Angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Complementary and Supplementary Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Complementary and Supplementary Angles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Identify the Relationships Between Adjacent, and Linear Pairs of Angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Angles Created by Intersection of Lines"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Advanced Problems on Basics of Lines and Angles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Various Types of Angles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Relate Angles Formed by Intersection of Parallel Lines and Transversals",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Transversal and parallel Lines"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Applied Problems Relating To Parallel and Transversal Lines"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Advanced Problems on Transversal and Parallel Lines"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Parallel Lines and Transversals"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Triangles",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Apply the Angle Sum Property and Exterior Angle Property of Triangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Properties of Triangles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Introduction to Exterior Angles of Triangles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Applied Problems on Properties of Triangles"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Advanced Problems on Properties of Triangles"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Angle Sum Property and Exterior Angle Property"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Apply the Triangle Inequality",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Triangle Inequality Property"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Triangle Inequality"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Apply the Pythagoras Property",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Pythagoras Theorem"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Congruence of Triangles",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recognise Congruent Shapes and Relate Identical Parts of Congruent Triangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Congruencies of different Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Recognizing Congruent Shapes"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Apply the Appropriate Criteria to Prove Congruence of Triangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Congruencies of Triangles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Criteria of Congruence of Triangle"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 10,
+            "topic": "Constructions",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Construct a Line Parallel to a Given Line",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Construction of a Line Parallel to a Given Line"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Construction of Parallel Lines"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Construct Triangles with Given Sides and Angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Construction of a Triangle Whose Sides and Angles are Given"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Construction of Triangles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 11,
+            "topic": "Algebra",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify Variables, Coefficients, Like and Unlike Terms in an Expression",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Algebra"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Terms, Coefficients, and Like and Unlike Terms"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Variables, Coefficients, Terms, and Factors"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Distinguish Among Monomials, Binomials, Trinomials and Polynomials",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Adding and subtracting like terms"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Monomials, Binomials, Trinomials and Polynomials"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Add and Subtract Algebraic Expressions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Algebraic Expressions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Find the Values of Algebraic Expressions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Values of Algebraic Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Value of an expression"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 12,
+            "topic": "Simple Equations",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Frame Simple Equations and Identify Their Solutions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of One-Variable Linear Equations"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Framing Equations and Identifying Solutions"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Simple Equations",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Solution of Simple Equations by Balancing"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solving Simple Equations"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Solution of Simple Equations by Transposing"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 13,
+            "topic": "Data Handling",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Find the Arithmetic Mean and Range of Ungrouped Data",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Arithmetic Mean"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Arithmetic Mean and Range of Ungrouped Data"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Find the Median and Mode of Ungrouped Data",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mean, Median, Mode"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Median and Mode of Ungrouped Data"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Represent and Interpret Data Using Single and Double Bar Graphs",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Graphs"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Single and Double Bar Graphs"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Interpret the Meaning of Probability",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Probability"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 14,
+            "topic": "Perimeter and Area",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Solve Contextual Problems on the Area and Perimeter of Squares and Rectangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Perimeter of Rectangles and Squares"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Applied Problems Relating To Perimeter of Shapes"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Recap of Area of Squares and Rectangles"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Advanced Problems on Perimeter and Area"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Applied Problems on The Area of Rectangles and Squares"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Area and Perimeter of Squares and Rectangles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Problems on Area of Parallelograms and Triangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Parallelogram"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Basics of Area of Triangles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Advanced Problems on Area of Parallelogram and Triangles"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Area of Parallelograms and Triangles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve Problems on the Circumference of Circles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Circumference of Circles"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Solve Problems on the Area of Circles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Area of Circles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Area and Circumference of a Circle"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve Problems on Area and Perimeter of Composite Shapes",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Problems on Area and Circumference of Composite Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Area and Perimeter of Composite Shapes"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 15,
+            "topic": "Symmetry",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify and Find Mirror Images and Lines of Symmetry",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Linear Symmetry"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Linear Symmetry"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Mirror Images and Linear Symmetry"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Identify Shapes That Have Rotational Symmetry and Find The Order of Symmetry",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Rotational Symmetry"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        },
+        {
+            "topic_sequence": 16,
+            "topic": "Solid Shapes",
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Solid Shapes",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Solid Shapes"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Relate 3D Objects with Their 2D Nets",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Nets"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Nets of 3D Objects"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identify the Cross Sections and Shadows of 3D Objects",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Different views of solid shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Cross Sections and Shadows of 3D Objects"
+                        }
+                    ],
+                    "level": 5,
+                    "points": 0
+                    
+                }
+            ]
+        }
+    ]
+}

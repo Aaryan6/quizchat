@@ -1,0 +1,24 @@
+.math-gradient {
+  background: -webkit-linear-gradient(121.17deg, #fd9621 0%, #fdb549 100%);
+}
+
+.science-gradient {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #54c993 -2.88%,
+    #54c9b2 103.53%
+  );
+}
+
+.english-gradient {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #47bad7 -2.88%,
+    #47acd7 103.53%
+  );
+}
+
+.gradient-text-addon {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

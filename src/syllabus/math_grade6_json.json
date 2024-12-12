@@ -1,0 +1,897 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 6",
+    "grade": 6,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Numbers and Operations\r",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand 10-digit numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to One Billion"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Understanding 10-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Exploring beyond 9 Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Compare and order 10-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparing and Ordering 10-Digit Numbers/"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Skip count and round off 10-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Skip Counting and Rounding Off 10-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Add and subtract 10-digit numbers, and understand their properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of 10-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Addition and Subtraction of 10-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Multiply and divide 10-digit numbers, and understand their properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication and Division of 10-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Multiplication and Division of 10-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Perform mental arithmetic operations with 10-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mental Arithmetic for 10-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Estimate 10-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Estimation for 10-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Simplify using order of operations",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mixed Operations involving 10-Digit Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Integers and their Operations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand negative numbers and integers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Negative Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Introduction to Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Represent integers on the number line, and compare and order them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Representation of Integers on a Number Line"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparison and Ordering of Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Find Absolute Value of Integers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Absolute Value of Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Add Integers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Addition of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Addition of Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Subtract Integers and Solve Expressions with Integers Using Addition and Subtraction",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Subtraction of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Subtraction of Integers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Properties of Subtraction of Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Multiply Integers and Understand the Properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Multiplication of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Multiplication of Integers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Problems on Multiplication of Integers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Divide Integers and Understand the Properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Division of Integers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Division of Integers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Mixed Operations on Integers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Fractions and Decimals",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Work with types of fractions, equivalent fractions, and addition and subtraction of fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Types of Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Equivalent Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Addition and Subtraction of Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Multiply fractions by whole numbers and fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Fractions by Whole Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Fractions by Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Divide fractions by whole numbers and fractions, and solve mixed problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Fractions by Whole Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Fractions by Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Multiplication and Division of Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Convert a decimal into a fraction and vice versa, and compare and order decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion of a Decimal into a Fraction and vice versa"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing and Ordering Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Perform all 4 operations on decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Decimals"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Division of Decimals"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Factors, Multiples, Primes and Exponents",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand factors, multiples, and their properties; primes and prime factorization",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Factors, Multiples, and their Properties"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Primes and Prime Factorization"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand and apply the concepts of HCF and LCM",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Factors and Multiples"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Work on Divisibility Tests",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Divisibility Tests"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand exponents and their laws, and solve problems on them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Exponents"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Laws of Exponents"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Practice Problems on Exponents"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand and find squares and square roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Squares and Square Roots"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Finding Square Roots"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand and find cubes and cube roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Cubes and Cube Roots"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Finding Cube Roots"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "An Introduction to Algebra",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Decode and predict patterns and understand variables",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Decoding and Prediction of Patterns"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to Variables"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Convert statements to variables and substitute values of variables",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion of Statements to Algebraic Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Substituting Values of Variables"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand variables, constants, and terms, and perform operations on variables",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Variables, Constants, and Terms"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Operations on Variables"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Identify like and unlike terms, and simplify and classify expressions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Like and Unlike Terms"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Simplification of Expressions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Classification of Expressions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Evaluate algebraic expressions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Evaluation of Algebraic Expressions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Visually represent equations and inequations",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Visual Representation of Equations and Inequations"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Understand and solve one-variable linear equations",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "One-Variable Linear Equations"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solving of One-Variable Linear Equations"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Solve using balancing method and transposition method",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Balancing Method"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Transposition Method"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 9,
+                    "subtopic": "Solve word problems on one-variable linear equations",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Statement Problems on One-variable Linear Equations"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Operations on Algebraic Expressions",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Simplify expressions using BODMAS",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Simplification of Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Simplification of Expressions using BODMAS"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Add and subtract expressions, and find HCF of expressions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "HCF of Expressions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Multiply and divide monomials and binomials",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Monomials"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Binomials"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Division of Monomials and Binomials"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Geometry",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Add and Subtract Angles, and Understand Complementary and Supplementary Angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Complementary and Supplementary Angles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Work with Intersecting Lines, Parallel Lines, Transversals and Pairs of Angles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Intersecting Lines and Pairs of Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Transversal and Pairs of Angles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Parallel Lines, Transversals, and Angle Pairs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Classify Triangles by Angles and Find the Relationship Between the Sides of a Triangle",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Classification of Triangles by Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Relationship between the Sides of a Triangle"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand and Apply Angle Sum Property and Exterior Angle Property of a Triangle",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Angle Sum Property of a Triangle"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Exterior Angle Property of a Triangle"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand Quadrilaterals and their Angle Sum Property and Recap Circles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Angle Sum Property of a Quadrilateral"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "A Recap to Circles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Learn about Polyhedrons, Pyramids, and Prisms",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Polyhedrons, Pyramids, and Prisms"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Understand and Apply Lines of Symmetry and Mirror Images",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Lines of Symmetry"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Symmetry"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Understanding Mirror Images"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Mensuration",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Work on perimeter and area of squares and rectangles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Perimeter of Squares and Rectangles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "A Recap to Area"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "The Area of Squares and Rectangles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand the concept of surface area and volume of cubes and cuboids",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to the Surface Area of Cubes and Cuboids"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to the Volume of Cubes and Cuboids"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Work with volume of cubes and cuboids and unit conversions (surface area and volume)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Volume of Cube and Cuboid"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Unit Conversion (Surface Area and Volume)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Data Handling",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand the concept of average",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to the Concept of Average"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The Interpretation of Bar Graphs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Interpret and create bar graphs",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Creation of Bar Graphs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Interpret line graphs",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Interpretation of Line Graphs"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation of Pie Charts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Interpret and create pie charts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Creation of Pie Charts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 10,
+            "topic": "Set Theory",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Basics of Sets",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Representation of Sets - 1"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Representation of Sets - 2"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Classification of Sets based on Cardinality"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Comparison of Sets",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Equal and Equivalent Sets"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Subsets and Supersets"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Universal Sets"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
