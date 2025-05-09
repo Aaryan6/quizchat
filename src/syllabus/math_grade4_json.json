@@ -1,0 +1,868 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 4",
+    "grade": 4,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Number Systems",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Number Systems",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Place Value and Expanded Form of 4-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing and Rounding off 4-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand Place Values in Numbers up to 6 Digits",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Read and Write 5-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Read and Write 6-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Identifying the Place Value of 5-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Identifying the Place Value of 6-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Expanded Form of 5-Digit and 6-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Non-Standard Expanded Form of 5-Digit and 6-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Compare and Order Numbers up to 6 Digits",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparing Numbers up to 6-Digits - I"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing Numbers up to 6-Digits - II"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Ordering Numbers up to 6-Digits in Ascending Order"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Ordering Numbers up to 6-Digits in Descending Order"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Form Numbers up to 5 Digits"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Form Numbers up to 6 Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Round off Multi-digit Numbers to any Place",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Rounding off Numbers up to 5 Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Rounding off Numbers up to 6 Digits"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Round off Numbers as per given conditions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Represent Roman Numerals up to 39",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Read Roman Numerals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Write Roman Numerals up to 39"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Arithmetic Operations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Add and subtract numbers up to 4 digits",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Addition and Subtraction of Numbers up to 4-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Add and subtract numbers up to 7 digits",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction of Numbers up to 7-Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Addition and Subtraction of Numbers up to 7-Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Multiply numbers up to 7 digits",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication of Numbers up to 7 Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Multiplication of Numbers up to 7 Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Divide numbers up to 7 digits",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Numbers up to 7 Digits"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Division of Numbers up to 7 Digits"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand properties and perform mental arithmetic operations (7-Digit Numbers)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Arithmetic Operations"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mental Arithmetic Operations"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Identify the operators and understand BODMAS (7-Digit Numbers)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Identifying the Operators"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Understanding BODMAS"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Understand and apply estimation (7-Digit Numbers)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding Estimation"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of Estimation"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Identify patterns in Arithmetic Operations (7-Digit Numbers)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Patterns in Arithmetic Operations"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Factors, Multiples, and Primes",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand multiples and factors",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding Multiples"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Understanding Factors"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand properties of multiples and factors",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Factors and Multiples - I"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Factors and Multiples - II"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand and apply LCM and HCF",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding LCM and HCF"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Application of LCM and HCF"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand prime and composite numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Prime and Composite Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Building Composites using Primes"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand and apply prime factorization",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Prime Factorization"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Prime Factorization using Division Method"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand the concept of divisibility and properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Divisibility"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Divisibility"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Perform divisibility tests for 2, 3, 4, 5, 9 and 10",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Divisibility Tests for 2, 5, and 10"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Divisibility Tests for 3 and 9"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Apply divisibility tests",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Practice Problems on Divisibility"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Fractions",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Find fractions of a whole",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Finding Fractions of Wholes"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand like fractions and add and subtract them",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Like Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of Like Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand and write equivalent fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Visual Introduction to Equivalent Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Equivalent Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand lowest form of a fraction",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to the Lowest Form of a Fraction"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Equivalent Fractions and Lowest Forms"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Identify improper and mixed fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Improper and Mixed Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Types of Fractions"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Convert fractions and represent fractions on the number line",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion between Fractions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Representation of Fractions on the Number Line"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Add and subtract mixed fractions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Lowest Form of a Fraction"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of Mixed Fractions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "An Introduction to Decimal Numbers",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand decimal numbers, their expanded form and conversion to fractions",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Decimal Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expansion of Decimal Numbers and Conversion to Fractions"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Expanded Fractional and Decimal forms"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Work with numbers up to 3 decimal places and write decimals in words",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Numbers up to Three Decimal Places"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Decimal Numbers in Words"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Convert proper and improper fractions to decimals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion of Proper Fractions to Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Conversion of Improper Fractions to Decimals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand the significance of zeros at the end of decimal numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Zeros at the End of Decimals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Conversion of Units and Word Problems"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Time",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "RECAP: Read time off the clock",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Reading Time off the Clock"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Read time past an hour, to an hour, and understand the 24-hour format",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Time Past an Hour, to an Hour, and to the Exact Minute"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to the 24-Hour Format"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Convert between hours, minutes, and seconds",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion between Hours, Minutes, and Seconds"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Perform operations on time",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Operations on Time"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Convert between weeks and days and understand terms like leap year, a decade and a century",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion between Weeks and Days"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Leap Year, a Decade, and a Century"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Lines and Angles",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Understand Angles and their Classification",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Classification of Angles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Practice Problems on Classification of Angles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Measure, Estimate and Construct Angles",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Measurement of Angles"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Estimation of Angles"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Construction of Angles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand Polygons and their Types",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Polygons"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Types of Polygons"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Convex, Concave, Regular, and Irregular Polygons"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand Circles and Solid Shapes",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Circles and Solid Shapes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Measurement",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Convert units of length and solve numerical and word problems on length",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion of Units of Length"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Operations on Length"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Word Problems on Length Measurement"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Convert units of weight and solve numerical and word problems on weight",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion of Units of Weight"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Operations on Weight Measurement"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Word Problems on Weight Measurement"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Convert units of capacity and solve word problems on capacity",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Unit Conversion and Operations on Capacities"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Capacity"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Work on perimeter of rectangles and squares",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Concept of Perimeter"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Perimeter of Rectangles and Squares"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Work on area of rectangles and squares",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "The Concept of Area"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Area of Rectangles and Squares"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Apply the concept of area and perimeter to problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Practice Problems on Perimeter and Area"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Data Handling",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Interpret and draw pictographs and scaled pictographs",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation and Drawing of Pictographs"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation and Drawing of Scaled Pictographs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Interpret bar graphs and pie charts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation of Bar Graphs"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation of Pie Charts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 10,
+            "topic": "Money",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Compare and convert between rupee and paise",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Conversion between and Comparison of Rupee and Paise"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Perform all 4 operations with amounts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Addition and Subtraction involving Amounts"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division involving Amounts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve problems involving debit cards, discounts and annas",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Problems involving Debit Cards, Discounts, and Annas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

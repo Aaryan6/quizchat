@@ -13,11 +13,11 @@ import Link from "next/link";
 import { LayoutDashboard, User2 } from "lucide-react";
 import { User } from "@supabase/supabase-js";
 import { useRouter } from "next/navigation";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
+import { createClient } from "@/lib/supabase/client";
 
 const UserAccountNav = ({ user }: { user: User }) => {
   const router = useRouter();
-  const supabase = createClientComponentClient();
+  const supabase = createClient();
   const handleLogout = async () => {
     const { error } = await supabase.auth.signOut();
 

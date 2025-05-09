@@ -1,0 +1,790 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 2",
+    "grade": 2,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Numbers up to 200",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap to Numbers up to 120",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap to Numbers up to 120"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Read and Write numbers upto 200",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Count and Write Numbers up to 200"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Understand Ordinal Numbers till 10"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Read and Write Numbers up to 200"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identify Place Value and Write Numbers up to 200 in Expanded Form",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understanding Places in 3-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Place Values and Face Values in 3-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Write a 3-Digit Number in Expanded Form"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Place Value and Expanded Form of Numbers up to 200"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Compare and Order Numbers up to 200",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Compare Numbers up to 200"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Order Numbers up to 200"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Compare and Order numbers up to 200"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Skip Count Numbers up to 100 by 2s, 3s and 5s",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Skip Count Forward by 2s, 3s, and 5s till 100"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Skip Count Backward by 2s, 3s, and 5s till 100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Number Systems",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Read and Write Numbers up to 1000",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Representation of Numbers up to 1000"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Before, after, and between numbers up to 1000"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Read and Write Numbers up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand the Place Value in 3-Digit Numbers and Express them in Expanded forms",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Understand the Place Value of 3-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Write 3-Digit Numbers in Expanded Form"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Place Value and Exapanded Form of 3-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Compare, Order, and Form 3-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparison of 3-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Order 3-Digit Numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Form Numbers up to 1000"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Compare, Order, and Form 3-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Round Off 3-Digit Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Round-Off 3-Digit Numbers to the nearest 10"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Round-Off 3-Digit Numbers to the nearest 100"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Skip Count 3-Digit Numbers by 5, 10, and 100",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Skip Count Forward by 10, 20, 50, and 100 up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Skip Count 3-Digit Numbers by 5, 10, and 101",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Skip Count Backward by 10, 20, 50, and 100 up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Skip Count 3-Digit Numbers by 5, 10, and 102",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Skip Count 3-Digit Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Addition and Subtraction",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Addition and Subtraction of Numbers up to 100",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Addition and Subtraction of Numbers up to 100\r"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Add and Subtract Numbers up to 100 mentally",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add Numbers up to 100 mentally"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Subtract Numbers up to 100 mentally"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Relationship between Addition and Subtraction"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Add and Subtract up to 100 mentally"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Add Numbers up to 1000",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Add 3-Digit Numbers without Regrouping"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Add 3-Digit Numbers with Regrouping"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Add Numbers using properties of Addition"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Add Numbers up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Subtract Numbers up to 1000",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Subtract 3-Digit Numbers without Regrouping"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Subtract 3-Digit Numbers with Regrouping"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Subtract Numbers up to 1000"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Estimate the Sum and Difference",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Estimation of the Sum of 2 given numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Estimation of the Difference between 2 given numbers"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Estimate Sum and Difference of 3-Digit Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Solve Real World Problems on Addition and Subtraction of Numbers up to 1000",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Word Problems on Addition up to 1000"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Word Problems on Subtraction up to 1000"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Two Step Word Problems up to 1000"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Problems on Addition and Subtraction up to 1000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Multiplication and Division",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Multiply using repeated addition and learn multiplication tables and facts",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication as Repeated Addition"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication Tables and Facts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand the standard multiplication algorithm for 3-digit numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Standard Algorithm for Multiplication"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Standard Algorithm for Multiplication"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand division by number of groups and number of objects per group",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Objects by Number of Groups"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Objects by Number of Objects per group"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Solve problems on multiplication and division facts",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplication and Division Facts"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Multiplication and Division Facts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand divisor, dividend and quotient\r",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Dividend, Divisor, and Quotient"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Understand properties of multiplication",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Multiplication"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Solve problems involving mental multiplication and division",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Mental Multiplication and Division(Part - 1)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Mental Multiplication and Division(Part - 2)"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Identify patterns using multiplication",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Patterns using Multiplication"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Time",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap: Understand Integral Hours",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Recap to Integral Hours"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Understand Time in Hours and Minutes(and the term half past)",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Time as Hours and Minutes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "The term Half Past"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Calculate the Time that has passed",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Calculation of the Time that has passed"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand days, months and the calendar",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Days and Months"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Calendars"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand sandglass and analog clock, and a.m. and p.m.\r",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "A Sandglass and an Analog Clock"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to A.M. and P.M."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Shapes and Patterns",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify Straight and Curved Lines",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Identifying Straight and Curved Lines"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Straight and Curved Lines in a Shape"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Identify Horizontal, Vertical, and Oblique Lines",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Slanting, Sleeping, and Standing Lines"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Vertical, Horizontal, and Oblique Lines"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identify plane shapes and their properties",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Plane Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Sides and Corners in Plane Shapes"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Identify open and closed figures",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Open and Closed Figures"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Understand solid shapes and their motion",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Solid Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Collection of Solid Shapes"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Objects that Roll or Slide"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Complete patterns",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Patterns with Objects and Shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Patterns with Numbers and Letters"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 7,
+                    "subtopic": "Create patterns",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Creating Patterns"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Patterns on Increase and Decrease"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 8,
+                    "subtopic": "Differentiate between man-made and natural patterns",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Natural and Man-Made Patterns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "Measurement",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Measure and compare lengths using cm",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Measuring Length using centimetre"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Comparing Lengths in Centimetre"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Perform operations on lengths and unit conversions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Operations on Length and Unit Conversion (m and cm)"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Operations on Length and Unit Conversion"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Measure weights and perform operations on weight",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Weight Measurement"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Operations in Weight Measurement"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Measure capacity and perform operations on capacity",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Capacity Measurement"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Operations on Capacity Measurement"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Pictograph",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Interpret Data",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Interpretation of Data using Objects"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Interpretation of Data"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Represent and Interpret Data",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Representation and Interpretation of Data"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Money",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Count and Compare Money",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Counting and Comparing Money"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Amount as a Collection of Coins and Notes"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Perform Arithmetic Operations on Money",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Operations on Money"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Understand the concept of Currency",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction and Concept of Currency"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

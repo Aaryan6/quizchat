@@ -1,30 +1,19 @@
-import { NextResponse } from "next/server";
-import OpenAI from "openai";
-import { StreamingTextResponse, OpenAIStream } from "ai";
+import { streamText } from "ai";
+import { createOpenAI } from "@ai-sdk/openai";
 
-const perplexity = new OpenAI({
-  apiKey: process.env.TOGETHER_AI_API_KEY || "",
-  baseURL: "https://api.together.xyz",
+const openai = createOpenAI({
+  apiKey: process.env.OPENAI_API_KEY!,
 });
 
 export async function POST(req: Request) {
   const body = await req.json();
-  const { prompt: question, correctOption } = body;
+  const { question, correctOption } = body;
 
-  const response = await perplexity.chat.completions.create({
-    model: "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
-    stream: true,
+  const response = await streamText({
+    model: openai("gpt-4o-mini"),
     temperature: 0,
-    messages: [
-      {
-        role: "user",
-        content: `Given the question and its right answer, Your work is to explain me it in easy language and in the minimum words. This is the question: ${question}\nand the correct option is: ${correctOption}\n explain it to me.`,
-      },
-    ],
+    prompt: `Given the question and its right answer, Your work is to explain me it in easy language and in the minimum words. This is the question: ${question}\nand the correct option is: ${correctOption}\n explain it to me.`,
   });
 
-  const stream = OpenAIStream(response);
-  return new StreamingTextResponse(stream, {
-    status: 200,
-  });
+  return response.toAIStreamResponse();
 }

@@ -1,0 +1,173 @@
+.gradient-text {
+  background: -webkit-linear-gradient(70.37deg, #4186b4 21.81%, #ffd452 76.7%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-2 {
+  background: -webkit-linear-gradient(5deg, #e561cb 57.95%, #fdb321 91.53%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-math {
+  background: -webkit-linear-gradient(20deg, #fffaf5 -2.88%, #ffefd7 103.53%);
+  border: 1px solid #ffe6c2;
+}
+
+.card-science {
+  background: -webkit-linear-gradient(20deg, #f5fffa -2.88%, #d7fff7 103.53%);
+  border: 1px solid #c2ffed;
+}
+
+.card-english {
+  background: -webkit-linear-gradient(20deg, #f5fdff -2.88%, #d7f3ff 103.53%);
+  border: 1px solid #e6efef;
+}
+
+.card-coding {
+  background: -webkit-linear-gradient(20deg, #f5f5ff -2.88%, #d7dcff 103.53%);
+  border: 1px solid #e6e6ef;
+}
+
+.card-french {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #f5f8ff -2.88%,
+    #e1e8ff 103.53%
+  );
+  border: 1px solid #e7e6ef;
+}
+
+.card-spanish {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #fff8f5 -2.88%,
+    #ffece1 103.53%
+  );
+  border: 1px solid #efe9e6;
+}
+
+.card-hindi {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #f5f5ff -2.88%,
+    #e5e1ff 103.53%
+  );
+  border: 1px solid #e7e6ef;
+}
+
+.card-german {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #f7fff5 -2.88%,
+    #e3ffe1 103.53%
+  );
+  border: 1px solid #e7e6ef;
+}
+
+.card-telugu {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #f5fbff -2.88%,
+    #e1f1ff 103.53%
+  );
+  border: 1px solid #e7e6ef;
+}
+
+.tags-math {
+  background: -webkit-linear-gradient(20deg, #fff1e1 -2.88%, #feeacd 103.53%);
+  color: #b58440;
+}
+
+.tags-science {
+  background: -webkit-linear-gradient(20deg, #d7ffec -2.88%, #c2fef2 103.53%);
+  color: #40b59b;
+}
+
+.tags-english {
+  background: -webkit-linear-gradient(20deg, #d7f7ff -2.88%, #cdeffe 103.53%);
+  color: #4096b5;
+}
+
+.tags-french {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #e1eaff -2.88%,
+    #e1e8ff 103.53%
+  );
+  color: #405fb5;
+}
+
+.tags-spanish {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #ffe7d7 -2.88%,
+    #fee4cd 103.53%
+  );
+  color: #b56740;
+}
+
+.tags-hindi {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #e1e2ff -2.88%,
+    #e2e1ff 103.53%
+  );
+  color: #5d59c5;
+}
+
+.tags-german {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #dfffd7 -2.88%,
+    #d0fecd 103.53%
+  );
+  color: #47b540;
+}
+
+.tags-telugu {
+  background: -webkit-linear-gradient(
+    123.74deg,
+    #d7f0ff -2.88%,
+    #cde7fe 103.53%
+  );
+  color: #3b7da3;
+}
+
+.total-earned-pts-box {
+  background: linear-gradient(99.89deg, #fef3eb 0%, #fef5eb 100%);
+  font-family: var(--font-inter);
+  font-weight: 600;
+  color: #5b8989;
+  font-size: 20px;
+  line-height: 24.2px;
+  border-radius: 16px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  width: max-content;
+  padding: 0px 24px;
+  margin-top: 48px;
+}
+.earned-pts-highlight {
+  background: linear-gradient(104.65deg, #f78400 39.14%, #f7a500 86.57%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24.2px;
+  margin: 0px 4px;
+}
+
+@media only screen and (max-width: 767px) {
+  .total-earned-pts-box {
+    font-size: 14px;
+    line-height: 16.94px;
+    margin-top: 32px;
+  }
+  .earned-pts-highlight {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+}

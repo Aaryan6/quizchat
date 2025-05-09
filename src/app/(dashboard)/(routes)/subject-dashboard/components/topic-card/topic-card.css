@@ -1,0 +1,33 @@
+.carousel-container {
+  width: 1140px;
+  margin: auto;
+}
+
+.carousel-item {
+  padding: 10px;
+}
+
+.carousel-buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .carousel-container {
+    width: 702px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .carousel-container {
+    width: 339px;
+  }
+  .carousel-buttons {
+    width: 10px;
+  }
+}
