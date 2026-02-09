@@ -1,0 +1,33 @@
+.custom-bar-graph {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    height: 180px; 
+  }
+  
+  .bar {
+    width: 30px; 
+    background-color: #FFA85D; 
+    position: relative;
+    border-radius: 4px;
+  }
+  
+  .bar-value {
+    position: absolute;
+    top: 1px; 
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+::-webkit-scrollbar {
+  width: 5px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #cbd5e0; /* color of the scrollbar thumb */
+  border-radius: 4px; /* rounded corners of the thumb */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #edf2f7; /* color of the scrollbar track */
+}

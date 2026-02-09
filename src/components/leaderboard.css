@@ -1,0 +1,26 @@
+.scroll-container {
+  overflow-y: auto;
+  height: 402px;
+  position: relative;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 5.5fr) minmax(0, 1fr) minmax(
+      0,
+      1.5fr
+    );
+  height: 40px;
+  gap: 8px;
+}
+
+.current-user-highlight {
+  background: -webkit-linear-gradient(91.62deg, #fbc123 0%, #fb9623 100%);
+  border-radius: 14px;
+  color: white;
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+}

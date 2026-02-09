@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body,
+:root,
+* {
+  scroll-behavior: smooth;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -33,36 +40,16 @@
     --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
-  }
 
-  .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
-
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
-
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
+    --app-text-black: 0 0% 20%;
+    --app-text-grey: 0 0% 60%;
+    --app-text-yellow: 44 100% 19%;
+    --app-primary: 44 100% 59%;
+    --app-primary-border: 44 100% 39%;
+    --app-secondary: 220 100% 50%;
+    --app-tertiary: 0 0% 96%;
+    --app-warning: 39 100% 50%;
+    --app-warning-subtle: 40 100% 94%;
   }
 }
 
@@ -79,4 +66,117 @@
 html,
 body {
   height: 100%;
+}
+
+/* Add these styles to your global CSS */
+.carousel-container {
+  position: relative;
+  padding: 0 32px;
+}
+
+.carousel-container .slick-list {
+  margin: 0 -10px;
+  overflow: visible;
+}
+
+.carousel-container .slick-slide > div {
+  padding: 0 10px;
+}
+
+.carousel-buttons {
+  z-index: 10;
+  cursor: pointer;
+  height: 100%;
+}
+
+.next-slick-arrow,
+.prev-slick-arrow {
+  border-radius: 4px;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slick-prev,
+.slick-next {
+  z-index: 10;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+
+/* Loading Screen Styles */
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  width: 100vw;
+  background: #fff;
+  color: #eb9b3a;
+  text-align: center;
+  padding: 1rem;
+}
+
+.loading-text {
+  font-size: 2rem;
+  font-weight: 400;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+.loading-icon {
+  height: 4rem;
+  width: auto;
+  margin-bottom: 0.5rem;
+}
+
+/* Keyframe Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 900px) {
+  .loading-text {
+    font-size: 1.5rem;
+  }
+  .loading-icon {
+    height: 3.5rem;
+    width: auto;
+  }
+}
+
+/* Hide arrows on mobile */
+@media (max-width: 500px) {
+  .carousel-buttons {
+    display: none;
+  }
+  .carousel-container {
+    padding: 0 16px;
+  }
+  .loading-text {
+    font-size: 1rem;
+  }
+  .loading-icon {
+    height: 3rem;
+    width: auto;
+  }
 }

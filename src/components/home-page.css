@@ -1,0 +1,675 @@
+.level-card {
+  background: -webkit-linear-gradient(77.69deg, #f0f6fa 17.91%, #fffbeb 82.09%);
+}
+
+.parentDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1024px;
+}
+
+.titleSectionWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 1rem;
+  align-self: flex-start;
+}
+
+.titleTxt {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.titleTxt .subHeadingTxt {
+  font-family: var(--font-inter);
+  color: #5b8989;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 38.73px;
+  margin-top: 24px;
+}
+
+.noahHomeIcon {
+  margin-right: 120px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.cardHeading {
+  font-family: var(--font-inter);
+  color: #5b8989;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24.2px;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.cardsWrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  width: 1024px;
+  min-height: 300px;
+}
+
+.cardLayout {
+  flex: 1;
+  background: -webkit-linear-gradient(99.24deg, #f9fafa 0%, #f2f7f7 100%);
+  border: 1px solid #e6efef;
+  border-radius: 16px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.cardContent {
+  padding: 20px;
+}
+.cardTitle {
+  font-family: var(--font-inter);
+  font-size: 20px;
+  font-weight: 600;
+  color: #517b7b;
+  margin-bottom: 10px;
+}
+
+.cardDescription {
+  font-family: var(--font-inter);
+  background: linear-gradient(123.74deg, #ecf3f2 -2.88%, #dfeceb 103.53%);
+  height: 33px;
+  border-radius: 6px;
+  font-weight: 500;
+  width: max-content;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  color: #6c9d9d;
+}
+.cardSubTitle {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 400;
+  color: #6c9d9d;
+  min-height: 70px;
+}
+
+.getStartedBtn {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.36px;
+  text-transform: none;
+  color: #ffffff;
+  background: #e98451;
+  box-shadow: none;
+  height: 48px;
+  width: 156px;
+  border-radius: 8px;
+}
+
+.getStartedBtn:hover {
+  color: #ffffff;
+  background: #f1ad7e;
+  box-shadow: none;
+}
+@media (min-width: 1024px) {
+  .cardLayout {
+    min-height: 350px;
+  }
+  .boxContainer {
+    position: absolute;
+    bottom: 0;
+    margin-top: 10px;
+  }
+}
+/* Subject list screen */
+
+.activityCardContainer {
+  border: 1px solid #ebf3ff;
+  border-radius: 16px;
+  box-shadow: 0px 0px 8px 0px #0053f429;
+  padding: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 480px;
+  width: 755px;
+}
+
+.cardHeadingTxt {
+  font-family: var(--font-inter);
+  color: #5b8989;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.profileWrapper {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(99.24deg, #f6f9f8 0%, #f1f3f3 100%);
+  border: 1px solid #e6efef;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.profileSection {
+  display: flex;
+  align-items: center;
+}
+
+.profileDetails {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.nameTag {
+  font-family: var(--font-inter);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24.2px;
+  text-align: left;
+  color: #5b8989;
+  margin-bottom: 10px;
+}
+
+.gradeTag {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+  text-align: left;
+  color: #5b8989;
+}
+
+.editBtn {
+  font-family: var(--font-inter);
+  font-size: 14px;
+  color: #0053f4;
+  padding: 0;
+  margin-top: 8px;
+  text-transform: none;
+  color: #8f8f8f;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.rankSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.rankNumber {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.36px;
+  color: #ffffff;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.rankTitle,
+.rankTitleGray {
+  font-family: var(--font-inter);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16.94px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.rankTitle {
+  color: #ff8800;
+}
+
+.rankTitleGray {
+  color: #aaa9a8;
+}
+
+.activityTrackHeading {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #569090;
+  margin-bottom: 10px;
+}
+
+.new-user-activity {
+  display: flex;
+  max-width: 420px;
+  justify-content: center;
+  align-items: center;
+}
+
+.streaksContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.streakGraph {
+  margin-top: 15px;
+}
+
+.streakGifAndText {
+  display: flex;
+  justify-content: center;
+}
+
+.streakTrackTxt {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 54.91px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #ffa85d;
+}
+
+.streakTxt {
+  font-family: var(--font-inter);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  text-align: left;
+  color: #5b8989;
+}
+
+.streakDescription {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+  text-align: left;
+  color: #a3a3a3;
+  margin-top: 10px;
+}
+
+.activitiesTrackerContainer {
+  margin-top: 25px;
+}
+
+.avatarCategoriesTxt {
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.06px;
+  text-align: left;
+  color: #5b8989;
+}
+
+/* activity-Dialog */
+
+.dialog-title {
+  position: relative;
+  padding: 16px;
+}
+
+.close-icon {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  color: #446c6c;
+}
+
+.activityDialogHeading {
+  font-family: var(--font-roboto-mono);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 18.75px;
+  text-align: center;
+  color: #446c6c;
+}
+
+.avatar-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 17px;
+  justify-content: flex-start;
+}
+
+.categoryTabs {
+  overflow: hidden;
+  gap: 8px;
+  min-height: 48px;
+  display: flex;
+}
+
+.scrollableTabs {
+  position: relative;
+  display: inline-block;
+  flex: 1 1 auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+  overflow: auto hidden;
+}
+
+.categoryTab {
+  font-family: var(--font-roboto-mono);
+  font-size: 14px;
+  line-height: 14.06px;
+  text-transform: none;
+  color: #5b8989;
+  min-width: 0;
+  min-height: 0;
+  padding: 5px 10px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.categoryTab.selectedTab {
+  background-color: #e98451;
+  color: #ffffff;
+  border-radius: 8px;
+}
+
+.submitBtnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.submitBtn {
+  padding: 12px 24px;
+  gap: 6px;
+  border-radius: 4px;
+  background: #ff712d;
+  text-transform: none;
+  width: 166px;
+  height: 40px;
+  color: #ffffff;
+  box-shadow: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.submitBtn:hover {
+  background: #ff712d;
+  color: #ffffff;
+}
+
+.submitBtn:active {
+  box-shadow: none;
+}
+
+.dialog-content {
+  padding: 16px;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.dialog-profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.activityStreakTxt {
+  font-family: var(--font-inter);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #569090;
+  width: 30px;
+}
+
+.bar-numbers {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.36px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #ffffff;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .parentDiv {
+    width: 704px;
+  }
+
+  .noahHeadingImg {
+    width: 144px;
+    height: 40px;
+  }
+
+  .titleTxt .subHeadingTxt {
+    font-size: 28px;
+    line-height: 33.89px;
+  }
+
+  .cardContainer {
+    width: 100%;
+    height: 100%;
+  }
+
+  .cardsWrapper {
+    flex-direction: column;
+    width: 704px;
+    height: 714px;
+  }
+
+  .cardLayout {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .cardHeading,
+  .cardHeadingTxt {
+    font-size: 20px;
+    line-height: 24.2px;
+  }
+
+  .cardDescription {
+    margin-bottom: 20px;
+    position: inherit;
+  }
+
+  .btnContainer {
+    position: inherit;
+  }
+
+  .noahHomeIcon {
+    margin: 0;
+  }
+
+  .nameTag {
+    font-size: 16px;
+    line-height: 19.36px;
+  }
+
+  .gradeTag {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+
+  .rankTitle,
+  .rankTitleGray {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+
+  .avatar-grid {
+    gap: 3px;
+  }
+
+  .activityCardContainer {
+    width: 704px;
+    height: 439px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .activityTrackHeading {
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .parentDiv {
+    width: 343px;
+  }
+  .titleSectionWrapper {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .noahHeadingImg {
+    width: 100px;
+    height: 28px;
+  }
+  .titleTxt .subHeadingTxt {
+    font-size: 20px;
+    line-height: 24.2px;
+    text-align: center;
+  }
+  .noahHomeIcon {
+    margin-right: 15px;
+  }
+  .cardContainer {
+    width: 100%;
+    height: 100%;
+  }
+  .cardLayout {
+    margin-top: 0;
+  }
+  .cardsWrapper {
+    flex-direction: column;
+    text-align: left;
+    width: 343px;
+    height: 680px;
+  }
+  .cardHeading {
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .cardTitle {
+    font-size: 16px;
+    line-height: 19.36px;
+  }
+  .cardSubTitle {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+  .cardDescription {
+    font-size: 14px;
+    line-height: 16.94px;
+    margin-bottom: 20px;
+    position: inherit;
+  }
+  .btnContainer {
+    position: inherit;
+  }
+  .getStartedBtn {
+    width: 156px;
+    height: 41px;
+    padding: 12px 20px 12px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  .profileWrapper {
+    flex-direction: column;
+  }
+  .profileSection {
+    align-items: flex-start;
+  }
+  .rankContainer {
+    margin-top: 40px;
+  }
+  .cardHeadingTxt {
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: center;
+  }
+  .nameTag {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+  .gradeTag {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+  .rankTitle,
+  .rankTitleGray {
+    font-size: 14px;
+    line-height: 16.94px;
+  }
+  .activityTrackHeading {
+    font-size: 16px;
+    line-height: 19.36px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .streaksContainer {
+    flex-direction: column;
+  }
+  .activityStreak {
+    margin-top: 20px;
+  }
+  .avatar-grid {
+    gap: 3px;
+    justify-content: center;
+    margin-top: 0;
+  }
+  .categoryTab {
+    font-size: 12px;
+  }
+
+  .activityCardContainer {
+    width: 343px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 20px 0;
+  }
+
+  .profileWrapper {
+    width: 311px;
+    height: 269px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .activityTrackHeading {
+    margin-bottom: 0;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #cbd5e0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #edf2f7;
+}

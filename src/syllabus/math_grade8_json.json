@@ -1,0 +1,995 @@
+{
+    "course_type": "maths",
+    "subject": "Maths",
+    "course": "Maths Grade 8",
+    "grade": 8,
+    "topics": [
+        {
+            "topic_sequence": 1,
+            "topic": "Rational Numbers",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Rational Numbers",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Rational Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Represent Rational Numbers and Find Rational Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Comparison and Representation of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Rational Numbers Representation"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Recap of Operations on Rational Numbers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Operations on Rational Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Properties of Addition and Subtraction",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Addition and Subtraction of Rational Numbers"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Properties of Multiplication and Division",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Multiplication and Division of Rational Numbers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication and Division of Rational Numbers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 2,
+            "topic": "Exponents",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Exponents",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Definition and Comparison of Exponents"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Expression of Numbers using Exponential Notation"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Laws of Exponents"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Simplify Expressions Involving Negative Powers",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Laws of Exponents for Negative Powers"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Laws of Exponents"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Expand Decimal Numbers and Express Very Small Numbers in the Standard Form",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Expression of Numbers in the Standard Form"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Compare, Order, and Perform Operations on Numbers in the Standard Form",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Operations on Numbers in the Standard Form"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Decimal Expansion of Numbers Using Exponents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 3,
+            "topic": "Squares and Square Roots",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Definition of Squares and Square Roots",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Definition of Squares and Square Roots"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Finding Square Roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Finding Square Roots Using Factorization"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Finding Square Roots Using Long Division"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Practice Problems on Finding Square Roots"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identifying Perfect Squares",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Identification of Perfect Squares"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Conversion of Numbers to Perfect Squares"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Identify Patterns in Square Numbers and Their Roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Ones Digits of Squares and Square Roots"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Number of Zeros and Parity of Squares and Square Roots"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Patterns in Square Numbers"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Miscellaneous Patterns in Square Numbers"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Pythagorean Triplets"
+                        },
+                        {
+                            "lo_sequence": 6,
+                            "learning_objective": "Patterns in Square Numbers and Their Roots"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 4,
+            "topic": "Cubes and Cube Roots",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Definiton of Cubes and Cube Roots",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Cubes and Cube Roots"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Definition of Cubes and Cube Roots"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Finding Cube Roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Finding Cube Roots Using Factorization"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Identification of Perfect Cubes"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Conversion of Numbers to Perfect Cubes"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Identify Perfect Cubes and Find Cube Roots"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Identify Patterns in Perfect Cubes and Their Cube Roots",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Patterns in Cubes and Cube Roots"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Perfect Cubes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 5,
+            "topic": "Ratio and Proportion",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Relate Quantities in Direct and Inverse Proportion",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Direct Proportion"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Direct and Inverse Proportion"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Identify the Type of Proportion and Solve Problems",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Problems on Direct and Inverse Proportion"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Speed, Time, and Distance"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Problems on Types of Proportion"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Direct and Inverse Proportion",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Proportional Relationship Between Time and Work"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Time-and-Work Problems Involving One Rate of Work"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Time-and-Work Problems Involving Multiple Rates of Work"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 6,
+            "topic": "Commercial Math",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Percentages",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Percentages"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Word Problems on Percentages"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Contextual Problems on Profit and Loss",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Profit and Loss"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Profit and Loss Percentage"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Advanced Problems on Profit and Loss"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Contextual - Profit and Loss"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve Contextual Problems on Discount and Tax",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Problems on Discount"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Discount and Tax"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Problems on Tax and Discount"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Recap of Simple Interest",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Simple Interest"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Advanced Problems on Simple and Compound Interest - 1"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve Contextual Problems on Compounding",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Compounding"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Compounding"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 6,
+                    "subtopic": "Relate Compound Interest, Principal, Amount, Time and Rate of Interest",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Compound Interest"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Compound Interest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 7,
+            "topic": "One Variable Linear Equations",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Solve Linear Equations in One Variable",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Linear Equations in One Variable"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solving Equations which have Linear Expressions on one Side and Numbers on the Other Side"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Solving Linear Equations with the Variable on One Side"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Linear Equations in One Variable"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Equations by Reducing Them to Linear Form",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Solving Linear Equations with the Variable on Both Sides - 1"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Solving Linear Equations with the Variable on Both Sides - 2"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Solving Linear Equations with the Variable on Both Sides"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Equations Reducible to Linear Form"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve Simple Word Problems on Linear Equations in One Variable",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Some Applications of Linear Equations In One Variable"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Simple Word Problems"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Solve Advanced Word Problems on Linear Equations in One Variable",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Some Applications of Linear Equations In One Variable"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Modelling and Solving Real-World Problems"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Advanced Word Problems"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 8,
+            "topic": "Algebraic Expressions",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Introduction to Algebra",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Basics of Algebraic Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Terms, Factors, and Coefficients"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Classification and Value of Algebraic Expressions"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Algebraic Operations - 1"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Algebraic Operations - 2"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Multiply a Monomial with a Polynomial",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Algebraic Operations - 3"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of a Monomial and a Polynomial"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Multiply Two Polynomials",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Multiplying Algebraic Expressions - 4"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Multiplication of Two Polynomials"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Understand Identities on Product of Binomials, Square of Binomials",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction To Algebraic Identities"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Algebraic And Geometric Proof Of Binomial Square Identity"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Standard Identities: Difference of Squares"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Standard Identities: Product of Binomials"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Understanding Identities"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Apply Identities to Evaluate Numerical Expressions",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Identities"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Evaluation of Numerical Expressions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 9,
+            "topic": "Factorization",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Factorise Expressions by Taking Out Common Factors and Grouping of Terms",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Factorisation by the method of common factors"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Factorisation By Grouping of Terms"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Factorise Expressions Using Identities",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Factorisation using identities"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Factorise Expressions By Splitting the Middle Term",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Factorisation by Regrouping and Splitting the Middle Term"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Factorization By Splitting the Middle Term"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Divide a Polynomial By a Monomial and a Linear Polynomial",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Division of Algebraic Expressions"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Division of Polynomials by monomials"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 10,
+            "topic": "Quadrilaterals",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify the Properties of Polygons and Generalise the Sum of Their Angles",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Classification and Angle Sum Property for Polygon"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Sum of Exterior Angles of a Quadrilateral"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Properties of Polygons"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Problems Based on the Properties of Parallelograms",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Properties of Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Properties of Parallelograms"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 11,
+            "topic": "Constructions",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Construct Quadrilaterals with Given Sides, Angles, and Diagonals",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Construction of Quadrilaterals with Given Sides, Angles, and Diagonals"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Construction of Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Construction of Special Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Practice Problems on Construction of Special Quadrilaterals"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Construction of Quadrilaterals of Given Measures"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 12,
+            "topic": "Perimeter and Area",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Basics of Perimeter and Area",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Perimeter and Area of Rectangles and Squares"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Perimeter and Area of Parallelograms and Triangles"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Solve Problems on Area of Special Quadrilaterals",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Area of a Trapezium and a Rhombus"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Area of Special Quadrilaterals"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Solve Problems on Area of General Quadrilaterals and Polygons",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Area of General Quadrilaterals and Polygons"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems Related to Perimeter and Area of the Plane Closed Figures"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Solve Problems on Surface Area of Cubes, Cuboids, and Cylinders",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Surface Area of Cubes and Cuboids"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Practice Problems on Surface Area of Cubes and Cuboids"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "An Introduction to Surface Area of Cylinders"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Practice Problems on Surface Area of Cylinders"
+                        },
+                        {
+                            "lo_sequence": 5,
+                            "learning_objective": "Surface Area of Cubes, Cuboids, and Cylinders"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Solve Problems on Volume of Cubes, Cuboids, and Cylinders",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "An Introduction to Volume"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "An Introduction to Volume of Cubes and Cuboids"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Volume of a Cylinder"
+                        },
+                        {
+                            "lo_sequence": 4,
+                            "learning_objective": "Volume of Cubes, Cuboids, and Cylinders"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 13,
+            "topic": "Solid Shapes",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Identify the Top, Front, and Side Views of 3D Objects",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Different views of solid shapes"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Views of 3D Objects"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Relate the Number of Vertices, Sides, and Faces of a Polyhedron",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Faces, Edges, Vertices, and Euler's Formula"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Vertices, Sides, and Faces of a Polyhedron"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic_sequence": 14,
+            "topic": "Data Handling",
+            "level": 1,
+            "subtopics": [
+                {
+                    "subtopic_sequence": 1,
+                    "subtopic": "Recap of Data Handling",
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Recap of Bar Graphs"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 2,
+                    "subtopic": "Organize Raw Data into Grouped Data",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Measures of Central Tendency"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Grouped Data"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 3,
+                    "subtopic": "Represent and Interpret Data Using a Histogram",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Histograms"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 4,
+                    "subtopic": "Represent and Interpret Data Using a Pie Chart",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Pie Chart"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Pie Charts"
+                        }
+                    ]
+                },
+                {
+                    "subtopic_sequence": 5,
+                    "subtopic": "Define Terms Related to Probability and Find the Probabilities of Simple Events",
+                    "level": 1,
+                    "learning_objectives": [
+                        {
+                            "lo_sequence": 1,
+                            "learning_objective": "Introduction to Probability"
+                        },
+                        {
+                            "lo_sequence": 2,
+                            "learning_objective": "Problems on Probability"
+                        },
+                        {
+                            "lo_sequence": 3,
+                            "learning_objective": "Probabilities of Simple Events"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

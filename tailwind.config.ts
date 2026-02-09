@@ -23,6 +23,11 @@ const config = {
       },
     },
     extend: {
+      fontFamily: {
+        sans: ["var(--font-inter)"],
+        mono: ["var(--font-roboto-mono)"],
+        bowlby: ["Bowlby One SC"],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -32,6 +37,23 @@ const config = {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+        },
+        app: {
+          text: {
+            black: "hsl(var(--app-text-black))",
+            grey: "hsl(var(--app-text-grey))",
+            yellow: "hsl(var(--app-text-yellow))",
+          },
+          primary: {
+            DEFAULT: "hsl(var(--app-primary))",
+            border: "hsl(var(--app-primary-border))",
+          },
+          secondary: "hsl(var(--app-secondary))",
+          tertiary: "hsl(var(--app-tertiary))",
+          warning: {
+            DEFAULT: "hsl(var(--app-warning))",
+            subtle: "hsl(var(--app-warning-subtle))",
+          },
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -76,6 +98,9 @@ const config = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+      },
+      screens: {
+        xs: "330px",
       },
     },
   },
